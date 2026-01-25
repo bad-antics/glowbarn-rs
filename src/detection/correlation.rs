@@ -1,3 +1,7 @@
+// Copyright (c) 2026 bad-antics
+// Licensed under the MIT License. See LICENSE file in the project root.
+// https://github.com/bad-antics/glowbarn-rs
+
 //! Sensor correlation analysis
 
 use std::collections::{HashMap, VecDeque};

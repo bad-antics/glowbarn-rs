@@ -1,0 +1,17 @@
+Package: glowbarn
+Version: 2.0.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: bad-antics <bad-antics@users.noreply.github.com>
+Homepage: https://github.com/bad-antics/glowbarn-rs
+Description: Security Console & Resource Monitor
+ GlowBarn is a high-performance security console and resource
+ monitoring tool written in Rust. Features visual GUI interface
+ with real-time system telemetry and security monitoring.
+ .
+ Features:
+  - Memory-safe Rust implementation
+  - Native egui visual interface
+  - Real-time resource monitoring
+  - Zero-copy data processing

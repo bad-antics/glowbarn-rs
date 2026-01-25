@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=GlowBarn
+Comment=Security Console & Resource Monitor
+Exec=glowbarn
+Icon=glowbarn
+Terminal=false
+Type=Application
+Categories=System;Security;Monitor;
+Keywords=security;monitor;console;resource;
