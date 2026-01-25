@@ -8,6 +8,7 @@ license = "MIT"
 repository = "https://github.com/bad-antics/glowbarn"
 keywords = ["anomaly-detection", "entropy", "paranormal", "sensors", "signal-processing"]
 categories = ["science", "visualization", "hardware-support"]
+exclude = ["dist/", "pkg/", "target/", "*.tar.gz", "*.deb", "*.asc", "glowbarn-linux-*"]
 
 [features]
 default = ["gui", "gpu"]
